@@ -1,0 +1,17 @@
+body{
+	background: url(../img/bg5.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+    background-size: cover;
+}
+
+#bg_theme{
+	background-color: #FFEC33;
+	height: auto;
+	max-width: 100%
+}
+
+#main_content{
+	color: navyblue;
+}
